@@ -4,30 +4,34 @@
   <img src="assets/img.jpg" alt="Bot Channels" width="1920"/>
 </p>
 
-A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+REX+BOTS)</p>
+</p>
+
+<b><i>A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.</i></b>
 
 ---
 
 ## 🚀 Features
 
--   **🔗 Advanced Link Sharing:** Securely share links from your channels.
+-   **Advanced Link Sharing:** Securely share links from your channels.
 -   **FORCE SUBSCRIBE:** Ensure users join designated channels before they can access links.
 -   **Button-Based UI:** Modern, easy-to-use interface with inline buttons instead of text commands.
 -   **Dynamic Content:** Rich messages with images and styled text using blockquotes.
--   **⚙️ In-Bot Configuration:** The bot owner can manage all important settings directly from the bot's UI.
+-   **In-Bot Configuration:** The bot owner can manage all important settings directly from the bot's UI.
     -   Manage Force-Subscribe channels (add, remove, list, toggle modes).
-    -   Set the MongoDB URL and other settings on the fly.
--   **🔐 Secure:** No hardcoded credentials. All sensitive information is loaded from environment variables.
+-   **Secure:** No hardcoded credentials. All sensitive information is loaded from environment variables.
 
 ---
 
 ## 🤖 Bot Commands
 
-The bot is primarily controlled through a user-friendly button interface. Here are the initial commands to get started:
-
--   `/start` - The main command to start the bot and open the main menu.
--   `/fsub` - (Owner only) Opens the Force-Subscribe settings menu.
--   `/settings` - (Owner only) Opens the general bot settings menu.
+```
+/start - Sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ 
+/settings - Tᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ sᴇᴛᴛɪɴɢs ᴅʏɴᴀᴍɪᴄᴀʟʟʏ (ᴀᴅᴍɪɴ)
+/genlink - Tᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋs sɪɴɢʟᴇ (ᴀᴅᴍɪɴ)
+/batch - Tᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋs ɪɴ ᴀ ʙᴀᴛᴄʜ (ᴀᴅᴍɪɴ)
+/broadcast - Tᴏ ʙʀᴏᴀᴅᴄᴀsᴛ Yᴏᴜʀ ᴍᴇssᴀɢᴇ (ᴀᴅᴍɪɴ)
+```
 
 ---
 
@@ -76,7 +80,7 @@ You can easily deploy this bot yourself. Follow the steps below.
 
 ---
 
-## 🙏 Credits & Acknowledgements
+## Credits:-
 
 This bot was made possible with the help and support of the following individuals:
 
@@ -84,6 +88,6 @@ This bot was made possible with the help and support of the following individual
 -   **[ABHINAV](https://t.me/adityaabhinav)**
 -   **[MASTER](https://t.me/V_Sbotmaker)**
 
-A special thanks to the **[REx BOTs](https://t.me/RexBots_Official)** channel for their inspiration and support!
+A special thanks to the **[REx BOTs](https://t.me/RexBots_Official)** channel for make this advance repo of link share bot.
 A special thanks to the **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)** channel for their inspiration and support!
 ---
