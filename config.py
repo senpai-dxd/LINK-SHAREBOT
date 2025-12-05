@@ -4,13 +4,13 @@ from os import environ
 import logging
 from logging.handlers import RotatingFileHandler
 
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-BOT_USERNAME = 'REx'
-APP_ID = int(os.environ.get("APP_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7817738817:AAFW3nFTLUtF3LpayA8AaLZKtRmrgrcnj6I")
+BOT_USERNAME = 'Goku_Animes_bot'
+APP_ID = int(os.environ.get("APP_ID", "27227762"))
+API_HASH = os.environ.get("API_HASH", "cc9b763a5ebce6e1ed3414c3d805842d")
+OWNER_ID = int(os.environ.get("OWNER_ID", "8201995920"))
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "")
+DB_URL = os.environ.get("DB_URI", "mongodb+srv://senpaidxdusa_db_user:UkREHZTKMwXMIp6g@cluster0.lvlusw5.mongodb.net/?appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "RexBots")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 COMMAND_PHOTO = os.environ.get("COMMAND_PHOTO", "https://ibb.co/DHqBS4V7")  # Replace with your photo URL
